@@ -1,7 +1,3 @@
-# EditorConfigVault
-
-A curated collection of meticulously crafted EditorConfig files to streamline your coding style across projects. Consistency, clarity, and clean code—unleashed!
-
 ## Overview
 
 This repository is a centralized hub for EditorConfig files tailored to various programming languages, frameworks, and coding styles. Each configuration is designed to enforce consistent formatting across editors and IDEs that support EditorConfig, ensuring your projects maintain a unified look and feel.

@@ -1,6 +1,4 @@
-# EditorConfig Configurations
-
-This directory contains a collection of `.editorconfig` files designed to enforce consistent coding styles across various programming languages and frameworks. Each file is tailored to specific use cases, with detailed settings to ensure clarity, maintainability, and compatibility with EditorConfig-supported editors.
+languages and frameworks. Each file is tailored to specific use cases, with detailed settings to ensure clarity, maintainability, and compatibility with EditorConfig-supported editors.
 
 ## Overview
 
