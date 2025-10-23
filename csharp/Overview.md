@@ -1,13 +1,3 @@
-languages and frameworks. Each file is tailored to specific use cases, with detailed settings to ensure clarity, maintainability, and compatibility with EditorConfig-supported editors.
-
-## Overview
-
-The `configs/` directory houses EditorConfig files that define formatting and coding conventions for your projects. Currently, this repository includes a configuration for **C#**, with plans to expand to other languages and frameworks in the future. Each file is crafted to align with common style guides and best practices, making it easy to integrate into your workflow.
-
-For a general introduction to the repository, see the [main README](../README.md).
-
-## Available Configurations
-
 ### C# EditorConfig (`csharp.editorconfig`)
 
 The `csharp.editorconfig` file provides a comprehensive set of coding conventions and formatting rules for C# projects. It is designed to enforce modern C# best practices, ensuring consistency across teams and projects. Below is a detailed breakdown of its settings.
